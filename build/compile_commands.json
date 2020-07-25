@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/lvqiang/Chat/build/src/server",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lvqiang/Chat/include -I/home/lvqiang/Chat/include/server -I/home/lvqiang/Chat/thirdparty -I/home/lvqiang/Chat/include/server/DB -I/home/lvqiang/Chat/include/server/model -I/home/lvqiang/Chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/lvqiang/Chat/src/server/chatserver.cpp",
+  "file": "/home/lvqiang/Chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/lvqiang/Chat/build/src/server",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lvqiang/Chat/include -I/home/lvqiang/Chat/include/server -I/home/lvqiang/Chat/thirdparty -I/home/lvqiang/Chat/include/server/DB -I/home/lvqiang/Chat/include/server/model -I/home/lvqiang/Chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/lvqiang/Chat/src/server/chatservice.cpp",
+  "file": "/home/lvqiang/Chat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/lvqiang/Chat/build/src/server",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lvqiang/Chat/include -I/home/lvqiang/Chat/include/server -I/home/lvqiang/Chat/thirdparty -I/home/lvqiang/Chat/include/server/DB -I/home/lvqiang/Chat/include/server/model -I/home/lvqiang/Chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/lvqiang/Chat/src/server/main.cpp",
+  "file": "/home/lvqiang/Chat/src/server/main.cpp"
+},
+{
+  "directory": "/home/lvqiang/Chat/build/src/server",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lvqiang/Chat/include -I/home/lvqiang/Chat/include/server -I/home/lvqiang/Chat/thirdparty -I/home/lvqiang/Chat/include/server/DB -I/home/lvqiang/Chat/include/server/model -I/home/lvqiang/Chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/lvqiang/Chat/src/server/db/db.cpp",
+  "file": "/home/lvqiang/Chat/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/lvqiang/Chat/build/src/server",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lvqiang/Chat/include -I/home/lvqiang/Chat/include/server -I/home/lvqiang/Chat/thirdparty -I/home/lvqiang/Chat/include/server/DB -I/home/lvqiang/Chat/include/server/model -I/home/lvqiang/Chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/lvqiang/Chat/src/server/model/friendmodel.cpp",
+  "file": "/home/lvqiang/Chat/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/lvqiang/Chat/build/src/server",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lvqiang/Chat/include -I/home/lvqiang/Chat/include/server -I/home/lvqiang/Chat/thirdparty -I/home/lvqiang/Chat/include/server/DB -I/home/lvqiang/Chat/include/server/model -I/home/lvqiang/Chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/lvqiang/Chat/src/server/model/groupmodel.cpp",
+  "file": "/home/lvqiang/Chat/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/lvqiang/Chat/build/src/server",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lvqiang/Chat/include -I/home/lvqiang/Chat/include/server -I/home/lvqiang/Chat/thirdparty -I/home/lvqiang/Chat/include/server/DB -I/home/lvqiang/Chat/include/server/model -I/home/lvqiang/Chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessage.cpp.o -c /home/lvqiang/Chat/src/server/model/offlinemessage.cpp",
+  "file": "/home/lvqiang/Chat/src/server/model/offlinemessage.cpp"
+},
+{
+  "directory": "/home/lvqiang/Chat/build/src/server",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lvqiang/Chat/include -I/home/lvqiang/Chat/include/server -I/home/lvqiang/Chat/thirdparty -I/home/lvqiang/Chat/include/server/DB -I/home/lvqiang/Chat/include/server/model -I/home/lvqiang/Chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/lvqiang/Chat/src/server/model/usermodel.cpp",
+  "file": "/home/lvqiang/Chat/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/lvqiang/Chat/build/src/server",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lvqiang/Chat/include -I/home/lvqiang/Chat/include/server -I/home/lvqiang/Chat/thirdparty -I/home/lvqiang/Chat/include/server/DB -I/home/lvqiang/Chat/include/server/model -I/home/lvqiang/Chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/lvqiang/Chat/src/server/redis/redis.cpp",
+  "file": "/home/lvqiang/Chat/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/lvqiang/Chat/build/src/client",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lvqiang/Chat/include -I/home/lvqiang/Chat/include/server -I/home/lvqiang/Chat/thirdparty -I/home/lvqiang/Chat/include/server/DB -I/home/lvqiang/Chat/include/server/model -I/home/lvqiang/Chat/include/server/redis  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/lvqiang/Chat/src/client/main.cpp",
+  "file": "/home/lvqiang/Chat/src/client/main.cpp"
+}
+]
